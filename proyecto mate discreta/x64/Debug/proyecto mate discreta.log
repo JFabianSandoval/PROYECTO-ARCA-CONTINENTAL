@@ -1,0 +1,9 @@
+﻿  principal.cpp
+C:\Users\FABIAN\source\repos\proyecto mate discreta\proyecto mate discreta\principal.cpp(15,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\FABIAN\source\repos\proyecto mate discreta\proyecto mate discreta\principal.cpp(23,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\FABIAN\source\repos\proyecto mate discreta\proyecto mate discreta\principal.cpp(229,17): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\FABIAN\source\repos\proyecto mate discreta\proyecto mate discreta\principal.cpp(232,17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+  principal.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  proyecto mate discreta.vcxproj -> C:\Users\FABIAN\source\repos\proyecto mate discreta\x64\Debug\proyecto mate discreta.exe
